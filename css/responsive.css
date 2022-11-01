@@ -1,0 +1,678 @@
+/*
+  ##device = Smart phones (galaxy fold)
+  ##Screen = B/w  279px to 319px
+*/
+@media (min-width: 279px) and (max-width: 319px) {
+
+	/* css */
+.navbar-toggler .fa-bars{
+    color: #242f51;
+}
+.navbar-toggler:focus{
+    box-shadow: 1px 1px 1px #242f51 !important;
+}
+.banner{
+  padding: 30px 0px;
+}
+.banner .inner-banner a{
+  font-size: 12px;
+  line-height: 24px;
+}
+.banner .inner-banner h1 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.banner .inner-banner p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.banner .inner-button .btn-primary {
+    font-size: 8px;
+    line-height: 18px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.banner .inner-button .btn-light {
+    font-size: 8px;
+    line-height: 18px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.trust-section {
+    padding: 30px 0px;
+}
+.trust-section .trust-brand ul {
+    padding: 0px 1px 0px;
+}
+.trust-section .trust-brand ul li {
+    margin: 20px 40px;
+}
+.feature-section {
+    padding: 30px 0px 20px;
+}
+.feature-section .inner-feature .title {
+    padding: 30px 0px 20px;
+}
+.feature-section .inner-feature .title h4 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.feature-section .inner-feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.feature-section .inner-feature p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 0px 14px;
+}
+.smart-section {
+    padding: 28px 0px;
+}
+.smart-section .inner-smart1 h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.smart-section .inner-smart2 p {
+    font-size: 11px;
+    line-height: 26px;
+    margin: 24px 0px 0px;
+}
+.about-us {
+    padding: 40px 0px;
+}
+.about-us .about-inner {
+    margin: 0px 0px 0px 14px;
+}
+.design-section {
+    padding: 40px 0px;
+}
+.design-section .inner-design {
+    margin: 50px 0px 0px;
+}
+.design-section .inner-design h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.design-section .inner-design p {
+    font-size: 11px;
+    line-height: 22px;
+}
+.design-section .inner-design .btn-success {
+      font-size: 10px;
+    line-height: 20px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.should-chose {
+    padding: 30px 0px;
+}
+.should-chose .title h2 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.should-chose .title p {
+    font-size: 11px;
+    line-height: 21px;
+    margin: 0px 0px 40px;
+}
+.unlimited {
+    padding: 0px 0px;
+}
+.unlimited .title {
+    width: 100%;
+    margin: 18px 0px 10px 16px;
+}
+.unlimited .btn-success {
+    font-size: 11px;
+    line-height: 23px;
+    margin: 15px 0px 0px 85px;
+
+}
+.img-fluid {
+    padding: 0px 0px 0px;
+}
+.pricing {
+    padding: 45px 0px;
+}
+.pricing .title h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.pricing .title p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 0px 13px;
+}
+.satisfaction {
+    padding: 12px 0px;
+}
+.satisfaction .inner-sa h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px 0px 0px;
+}
+.contact {
+    padding: 50px 0px 0px;
+
+}
+.contact .title {
+    padding: 0px 0px 0px;
+}
+.contact .title h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.contact .inner-contact {
+    padding: 12px 0px;
+
+}
+.contact-form .submit .btn-primary {
+    font-size: 9px;
+    line-height: 12px;
+    padding: 13px 27px;
+}.apps {
+    padding: 12px 0px 0px;
+    margin-bottom: -18px;
+}
+.apps .our-apps h2 {
+    font-size: 20px;
+    line-height: 27px;
+}.apps .our-apps p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.apps .our-apps .img-fluid {
+    width: 115px;
+    margin: 0px 3px 30px 6px;
+}.footer .inner-footer .a {
+    padding: 0px;
+}
+.footer .inner-footer .a li {
+    font-size: 12px;
+    line-height: 22px;
+
+}
+.footer .inner-footer .b li {
+    font-size: 15px;
+    line-height: 25px;
+
+}
+.footer .inner-footer p {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+  /*css code end*/
+}
+
+/*
+  ##device = Most of the Smart phones (Portrait)
+  ##Screen = B/w  279px to 319px
+*/
+@media (min-width: 320px) and (max-width: 480px) {
+
+	/* css */
+
+.navbar-toggler .fa-bars{
+    color: #242f51;
+}
+.navbar-toggler:focus{
+    box-shadow: 1px 1px 1px #242f51 !important;
+}
+.banner{
+  padding: 30px 0px;
+}
+.banner .inner-banner a{
+  font-size: 12px;
+  line-height: 24px;
+}
+.banner .inner-banner h1 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.banner .inner-banner p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.banner .inner-button .btn-primary {
+    font-size: 8px;
+    line-height: 18px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.banner .inner-button .btn-light {
+    font-size: 8px;
+    line-height: 18px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.trust-section {
+    padding: 30px 0px;
+}
+.trust-section .trust-brand ul {
+    padding: 0px 1px 0px;
+}
+.trust-section .trust-brand ul li {
+    margin: 20px 40px;
+}
+.feature-section {
+    padding: 30px 0px 20px;
+}
+.feature-section .inner-feature .title {
+    padding: 30px 0px 20px;
+}
+.feature-section .inner-feature .title h4 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.feature-section .inner-feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.feature-section .inner-feature p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 0px 14px;
+}
+.smart-section {
+    padding: 28px 0px;
+}
+.smart-section .inner-smart1 h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.smart-section .inner-smart2 p {
+    font-size: 11px;
+    line-height: 26px;
+    margin: 24px 0px 0px;
+}
+.about-us {
+    padding: 40px 0px;
+}
+.about-us .about-inner {
+    margin: 0px 0px 0px 14px;
+}
+.design-section {
+    padding: 40px 0px;
+}
+.design-section .inner-design {
+    margin: 50px 0px 0px;
+}
+.design-section .inner-design h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.design-section .inner-design p {
+    font-size: 11px;
+    line-height: 22px;
+}
+.design-section .inner-design .btn-success {
+      font-size: 10px;
+    line-height: 20px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.should-chose {
+    padding: 30px 0px;
+}
+.should-chose .title h2 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.should-chose .title p {
+    font-size: 11px;
+    line-height: 21px;
+    margin: 0px 0px 40px;
+}
+.unlimited {
+    padding: 0px 0px;
+}
+.unlimited .title {
+    width: 100%;
+    margin: 18px 0px 10px 16px;
+}
+.unlimited .btn-success {
+    font-size: 11px;
+    line-height: 23px;
+    margin: 15px 0px 0px 85px;
+
+}
+.img-fluid {
+    padding: 0px 0px 0px;
+}
+.pricing {
+    padding: 45px 0px;
+}
+.pricing .title h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.pricing .title p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 0px 13px;
+}
+.satisfaction {
+    padding: 12px 0px;
+}
+.satisfaction .inner-sa h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px 0px 0px;
+}
+.contact {
+    padding: 50px 0px 0px;
+
+}
+.contact .title {
+    padding: 0px 0px 0px;
+}
+.contact .title h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.contact .inner-contact {
+    padding: 12px 0px;
+
+}
+.contact-form .submit .btn-primary {
+    font-size: 9px;
+    line-height: 12px;
+    padding: 13px 27px;
+}.apps {
+    padding: 12px 0px 0px;
+    margin-bottom: -18px;
+}
+.apps .our-apps h2 {
+    font-size: 20px;
+    line-height: 27px;
+}.apps .our-apps p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.apps .our-apps .img-fluid {
+    width: 115px;
+    margin: 0px 3px 30px 6px;
+}.footer .inner-footer .a {
+    padding: 0px;
+}
+.footer .inner-footer .a li {
+    font-size: 12px;
+    line-height: 22px;
+
+}
+.footer .inner-footer .b li {
+    font-size: 15px;
+    line-height: 25px;
+
+}
+.footer .inner-footer p {
+    font-size: 10px;
+    line-height: 20px;
+}    
+
+  /*css code end*/
+}
+
+/*
+  ##device = Low resulation tab , Mobiles (Landscape)
+  ##Screen = B/w  279px to 319px
+*/
+@media (min-width: 481px) and (max-width: 767px) {
+
+
+	/* css */
+.navbar-toggler .fa-bars{
+    color: #242f51;
+}
+.navbar-toggler:focus{
+    box-shadow: 1px 1px 1px #242f51 !important;
+}
+.banner{
+  padding: 30px 0px;
+}
+.banner .inner-banner a{
+  font-size: 12px;
+  line-height: 24px;
+}
+.banner .inner-banner h1 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.banner .inner-banner p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.banner .inner-button .btn-primary {
+    font-size: 8px;
+    line-height: 18px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.banner .inner-button .btn-light {
+    font-size: 8px;
+    line-height: 18px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.trust-section {
+    padding: 30px 0px;
+}
+.trust-section .trust-brand ul {
+    padding: 0px 1px 0px;
+}
+.trust-section .trust-brand ul li {
+    margin: 20px 40px;
+}
+.feature-section {
+    padding: 30px 0px 20px;
+}
+.feature-section .inner-feature .title {
+    padding: 30px 0px 20px;
+}
+.feature-section .inner-feature .title h4 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.feature-section .inner-feature .title p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.feature-section .inner-feature p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 0px 14px;
+}
+.smart-section {
+    padding: 28px 0px;
+}
+.smart-section .inner-smart1 h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.smart-section .inner-smart2 p {
+    font-size: 11px;
+    line-height: 26px;
+    margin: 24px 0px 0px;
+}
+.about-us {
+    padding: 40px 0px;
+}
+.about-us .about-inner {
+    margin: 0px 0px 0px 14px;
+}
+.design-section {
+    padding: 40px 0px;
+}
+.design-section .inner-design {
+    margin: 50px 0px 0px;
+}
+.design-section .inner-design h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.design-section .inner-design p {
+    font-size: 11px;
+    line-height: 22px;
+}
+.design-section .inner-design .btn-success {
+      font-size: 10px;
+    line-height: 20px;
+    font-weight: 700;
+    padding: 6px 14px;
+}
+.should-chose {
+    padding: 30px 0px;
+}
+.should-chose .title h2 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.should-chose .title p {
+    font-size: 11px;
+    line-height: 21px;
+    margin: 0px 0px 40px;
+}
+.unlimited {
+    padding: 0px 0px;
+    text-align: center;
+}
+.unlimited .title {
+    width: 100%;
+    margin: 18px 0px 10px 16px;
+}
+.unlimited .btn-success {
+    font-size: 11px;
+    line-height: 23px;
+    margin: 15px 0px 0px 85px;
+
+}
+.img-fluid {
+    padding: 0px 0px 0px;
+}
+.pricing {
+    padding: 45px 0px;
+}
+.pricing .title h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.pricing .title p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px 0px 13px;
+}
+.satisfaction {
+    padding: 12px 0px;
+}
+.satisfaction .inner-sa h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px 0px 0px;
+}
+.contact {
+    padding: 50px 0px 0px;
+
+}
+.contact .title {
+    padding: 0px 0px 0px;
+}
+.contact .title h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.contact .inner-contact {
+    padding: 12px 0px;
+
+}
+.contact-form .submit .btn-primary {
+    font-size: 9px;
+    line-height: 12px;
+    padding: 13px 27px;
+}.apps {
+    padding: 12px 0px 0px;
+    margin-bottom: -18px;
+}
+.apps .our-apps h2 {
+    font-size: 20px;
+    line-height: 27px;
+}.apps .our-apps p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.apps .our-apps .img-fluid {
+    width: 115px;
+    margin: 0px 3px 30px 6px;
+}.footer .inner-footer .a {
+    padding: 0px;
+}
+.footer .inner-footer .a li {
+    font-size: 12px;
+    line-height: 22px;
+
+}
+.footer .inner-footer .b li {
+    font-size: 15px;
+    line-height: 25px;
+
+}
+.footer .inner-footer p {
+    font-size: 10px;
+    line-height: 20px;
+}  
+    
+
+  /*css code end*/  
+}
+
+/*
+  ##device = Tablet, Ipads (Landscape)
+  ##Screen = B/w  279px to 319px
+*/
+@media (min-width: 768px) and (max-width: 1024px) {
+
+	/* css */
+.banner {
+    padding: 37px 0px;
+}    
+ .banner .inner-banner h1 {
+    font-size: 36px;
+    line-height: 46px;
+} 
+.banner .inner-banner p {
+    font-size: 14px;
+    line-height: 24px;
+
+}  
+.banner .inner-button .btn-primary {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 8px 15px;
+    margin: 0px 17px 14px;
+}
+.banner .inner-button .btn-light {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 8px 15px;
+}
+.trust-section .trust-brand .img-fluid{
+    width: 95px;
+}   
+.feature-section .featute-image{
+    margin: 80px 0px 0px;
+} 
+.design-section .inner-design {
+    margin: 50px 0px 0px;
+}
+.apps {
+    margin-bottom: -32px;
+}
+.apps .our-apps h2 {
+    font-size: 35px;
+    line-height: 10px;
+    margin: -20px 0px 0px;
+
+}
+  /*css code end*/
+}
